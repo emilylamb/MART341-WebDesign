@@ -1,1 +1,4 @@
-Hello :)
+Three websites I like visiting are youtube, amazon and instagram!
+The relationship between IP address and DNS is DNS translated domain names to IP adresses so browsers can open websites.
+A cookie is the data that holds computer data for things like usernames and passwords.
+Three essential parts of a URL is A scheme which is the HTTP, a host aka the .com, and a path which identifies the resources.
